@@ -1,6 +1,9 @@
 {
     "name": "ziplr/php-qr-code",
     "description": "PHP Qr Code Generator compatible with php 7.0",
+    "require": {
+        "php": "~5.4"
+    },
     "autoload": {
         "psr-0": {
             
